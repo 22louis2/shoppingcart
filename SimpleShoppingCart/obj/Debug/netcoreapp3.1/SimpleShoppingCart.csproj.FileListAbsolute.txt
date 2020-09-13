@@ -1,0 +1,66 @@
+C:\Users\hp\source\repos\Simple Shopping Cart\bin\Debug\netcoreapp3.1\SimpleShoppingCart.exe
+C:\Users\hp\source\repos\Simple Shopping Cart\bin\Debug\netcoreapp3.1\SimpleShoppingCart.deps.json
+C:\Users\hp\source\repos\Simple Shopping Cart\bin\Debug\netcoreapp3.1\SimpleShoppingCart.runtimeconfig.json
+C:\Users\hp\source\repos\Simple Shopping Cart\bin\Debug\netcoreapp3.1\SimpleShoppingCart.runtimeconfig.dev.json
+C:\Users\hp\source\repos\Simple Shopping Cart\bin\Debug\netcoreapp3.1\SimpleShoppingCart.dll
+C:\Users\hp\source\repos\Simple Shopping Cart\bin\Debug\netcoreapp3.1\SimpleShoppingCart.pdb
+C:\Users\hp\source\repos\Simple Shopping Cart\obj\Debug\netcoreapp3.1\SimpleShoppingCart.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Simple Shopping Cart\obj\Debug\netcoreapp3.1\SimpleShoppingCart.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Simple Shopping Cart\obj\Debug\netcoreapp3.1\SimpleShoppingCart.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Simple Shopping Cart\obj\Debug\netcoreapp3.1\SimpleShoppingCart.AssemblyInfo.cs
+C:\Users\hp\source\repos\Simple Shopping Cart\obj\Debug\netcoreapp3.1\SimpleShoppingCart.dll
+C:\Users\hp\source\repos\Simple Shopping Cart\obj\Debug\netcoreapp3.1\SimpleShoppingCart.pdb
+C:\Users\hp\source\repos\Simple Shopping Cart\obj\Debug\netcoreapp3.1\SimpleShoppingCart.genruntimeconfig.cache
+C:\Users\hp\source\repos\Simple Shopping Cart\obj\Debug\netcoreapp3.1\SimpleShoppingCart.ShoppingCartUI.resources
+C:\Users\hp\source\repos\Simple Shopping Cart\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\hp\source\repos\Simple Shopping Cart\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\hp\source\repos\Simple Shopping Cart\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\hp\source\repos\Simple Shopping Cart\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\hp\source\repos\Simple Shopping Cart\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp\source\repos\Simple Shopping Cart\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp\source\repos\Simple Shopping Cart\obj\Debug\netcoreapp3.1\SimpleShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Simple Shopping Cart\obj\Debug\netcoreapp3.1\SimpleShoppingCart.csproj.CopyComplete
+C:\Users\hp\source\repos\SimpleShoppingCart\bin\Debug\netcoreapp3.1\SimpleShoppingCart.exe
+C:\Users\hp\source\repos\SimpleShoppingCart\bin\Debug\netcoreapp3.1\SimpleShoppingCart.deps.json
+C:\Users\hp\source\repos\SimpleShoppingCart\bin\Debug\netcoreapp3.1\SimpleShoppingCart.runtimeconfig.json
+C:\Users\hp\source\repos\SimpleShoppingCart\bin\Debug\netcoreapp3.1\SimpleShoppingCart.runtimeconfig.dev.json
+C:\Users\hp\source\repos\SimpleShoppingCart\bin\Debug\netcoreapp3.1\SimpleShoppingCart.dll
+C:\Users\hp\source\repos\SimpleShoppingCart\bin\Debug\netcoreapp3.1\SimpleShoppingCart.pdb
+C:\Users\hp\source\repos\SimpleShoppingCart\obj\Debug\netcoreapp3.1\SimpleShoppingCart.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\SimpleShoppingCart\obj\Debug\netcoreapp3.1\SimpleShoppingCart.ShoppingCartUI.resources
+C:\Users\hp\source\repos\SimpleShoppingCart\obj\Debug\netcoreapp3.1\SimpleShoppingCart.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\SimpleShoppingCart\obj\Debug\netcoreapp3.1\SimpleShoppingCart.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\SimpleShoppingCart\obj\Debug\netcoreapp3.1\SimpleShoppingCart.AssemblyInfo.cs
+C:\Users\hp\source\repos\SimpleShoppingCart\obj\Debug\netcoreapp3.1\SimpleShoppingCart.dll
+C:\Users\hp\source\repos\SimpleShoppingCart\obj\Debug\netcoreapp3.1\SimpleShoppingCart.pdb
+C:\Users\hp\source\repos\SimpleShoppingCart\obj\Debug\netcoreapp3.1\SimpleShoppingCart.genruntimeconfig.cache
+C:\Users\hp\source\repos\SimpleShoppingCart\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\hp\source\repos\SimpleShoppingCart\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\hp\source\repos\SimpleShoppingCart\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\hp\source\repos\SimpleShoppingCart\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\hp\source\repos\SimpleShoppingCart\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp\source\repos\SimpleShoppingCart\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp\source\repos\SimpleShoppingCart\obj\Debug\netcoreapp3.1\SimpleShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\SimpleShoppingCart\obj\Debug\netcoreapp3.1\SimpleShoppingCart.csproj.CopyComplete
+C:\Users\hp\source\repos\week-7-task-22louis2\SimpleShoppingCart\bin\Debug\netcoreapp3.1\SimpleShoppingCart.exe
+C:\Users\hp\source\repos\week-7-task-22louis2\SimpleShoppingCart\bin\Debug\netcoreapp3.1\SimpleShoppingCart.deps.json
+C:\Users\hp\source\repos\week-7-task-22louis2\SimpleShoppingCart\bin\Debug\netcoreapp3.1\SimpleShoppingCart.runtimeconfig.json
+C:\Users\hp\source\repos\week-7-task-22louis2\SimpleShoppingCart\bin\Debug\netcoreapp3.1\SimpleShoppingCart.runtimeconfig.dev.json
+C:\Users\hp\source\repos\week-7-task-22louis2\SimpleShoppingCart\bin\Debug\netcoreapp3.1\SimpleShoppingCart.dll
+C:\Users\hp\source\repos\week-7-task-22louis2\SimpleShoppingCart\bin\Debug\netcoreapp3.1\SimpleShoppingCart.pdb
+C:\Users\hp\source\repos\week-7-task-22louis2\SimpleShoppingCart\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\hp\source\repos\week-7-task-22louis2\SimpleShoppingCart\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\hp\source\repos\week-7-task-22louis2\SimpleShoppingCart\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\hp\source\repos\week-7-task-22louis2\SimpleShoppingCart\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\hp\source\repos\week-7-task-22louis2\SimpleShoppingCart\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp\source\repos\week-7-task-22louis2\SimpleShoppingCart\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp\source\repos\week-7-task-22louis2\SimpleShoppingCart\obj\Debug\netcoreapp3.1\SimpleShoppingCart.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\week-7-task-22louis2\SimpleShoppingCart\obj\Debug\netcoreapp3.1\SimpleShoppingCart.ShoppingCartUI.resources
+C:\Users\hp\source\repos\week-7-task-22louis2\SimpleShoppingCart\obj\Debug\netcoreapp3.1\SimpleShoppingCart.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\week-7-task-22louis2\SimpleShoppingCart\obj\Debug\netcoreapp3.1\SimpleShoppingCart.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\week-7-task-22louis2\SimpleShoppingCart\obj\Debug\netcoreapp3.1\SimpleShoppingCart.AssemblyInfo.cs
+C:\Users\hp\source\repos\week-7-task-22louis2\SimpleShoppingCart\obj\Debug\netcoreapp3.1\SimpleShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\week-7-task-22louis2\SimpleShoppingCart\obj\Debug\netcoreapp3.1\SimpleShoppingCart.csproj.CopyComplete
+C:\Users\hp\source\repos\week-7-task-22louis2\SimpleShoppingCart\obj\Debug\netcoreapp3.1\SimpleShoppingCart.dll
+C:\Users\hp\source\repos\week-7-task-22louis2\SimpleShoppingCart\obj\Debug\netcoreapp3.1\SimpleShoppingCart.pdb
+C:\Users\hp\source\repos\week-7-task-22louis2\SimpleShoppingCart\obj\Debug\netcoreapp3.1\SimpleShoppingCart.genruntimeconfig.cache
